@@ -1,0 +1,163 @@
+{
+  "nomeSupermercado": "Futura",
+  "endereco": "Av. Principal, 123",
+  "telefone": "(11) 5555-5555",
+  "produtos": {
+  "cuidadosCorpo": [
+    {
+      "id": 11,
+      "imagem": "https://picsum.photos/id/11/200/300",
+      "descricao": "Shampoo Cabelos Secos 250ml",
+      "preco": 14.99
+    },
+    {
+      "id": 12,
+      "imagem": "https://picsum.photos/id/12/200/300",
+      "descricao": "Condicionador Cabelos Oleosos 200ml",
+      "preco": 12.99
+    },
+    {
+      "id": 13,
+      "imagem": "https://picsum.photos/id/13/200/300",
+      "descricao": "Sabonete Líquido Corporal 500ml",
+      "preco": 18.99
+    },
+    {
+      "id": 14,
+      "imagem": "https://picsum.photos/id/14/200/300",
+      "descricao": "Creme para Mãos 50g",
+      "preco": 9.99
+    },
+    {
+      "id": 15,
+      "imagem": "https://picsum.photos/id/15/200/300",
+      "descricao": "Desodorante Roll-on Feminino 50ml",
+      "preco": 7.99
+    },
+    {
+      "id": 16,
+      "imagem": "https://picsum.photos/id/16/200/300",
+      "descricao": "Desodorante Spray Masculino 150ml",
+      "preco": 12.99
+    },
+    {
+      "id": 17,
+      "imagem": "https://picsum.photos/id/17/200/300",
+      "descricao": "Protetor Solar FPS30 120ml",
+      "preco": 26.99
+    },
+    {
+      "id": 18,
+      "imagem": "https://picsum.photos/id/18/200/300",
+      "descricao": "Perfume Feminino 100ml",
+      "preco": 69.99
+    },
+    {
+      "id": 19,
+      "imagem": "https://picsum.photos/id/19/200/300",
+      "descricao": "Perfume Masculino 100ml",
+      "preco": 74.99
+    },
+    {
+      "id": 20,
+      "imagem": "https://picsum.photos/id/20/200/300",
+      "descricao": "Gel para Barbear 150g",
+      "preco": 16.99
+    }
+  ],
+ 
+    "festivalLimpeza": [
+      {
+        "id": 1,
+        "imagem": "https://via.placeholder.com/150x150.png?text=Produto+1",
+        "descricao": "Produto 1 da promoção Festival da Limpeza",
+        "preco": 10.99
+      },
+      {
+        "id": 2,
+        "imagem": "https://via.placeholder.com/150x150.png?text=Produto+2",
+        "descricao": "Produto 2 da promoção Festival da Limpeza",
+        "preco": 8.99
+      },
+      {
+        "id": 3,
+        "imagem": "https://via.placeholder.com/150x150.png?text=Produto+3",
+        "descricao": "Produto 3 da promoção Festival da Limpeza",
+        "preco": 5.99
+      },
+      {
+        "id": 4,
+        "imagem": "https://via.placeholder.com/150x150.png?text=Produto+4",
+        "descricao": "Produto 4 da promoção Festival da Limpeza",
+        "preco": 7.49
+      },
+      {
+        "id": 5,
+        "imagem": "https://via.placeholder.com/150x150.png?text=Produto+5",
+        "descricao": "Produto 5 da promoção Festival da Limpeza",
+        "preco": 11.99
+      },
+      {
+        "id": 6,
+        "imagem": "https://via.placeholder.com/150x150.png?text=Produto+6",
+        "descricao": "Produto 6 da promoção Festival da Limpeza",
+        "preco": 14.99
+      },
+      {
+        "id": 7,
+        "imagem": "https://via.placeholder.com/150x150.png?text=Produto+7",
+        "descricao": "Produto 7 da promoção Festival da Limpeza",
+        "preco": 6.99
+      },
+      {
+        "id": 8,
+        "imagem": "https://via.placeholder.com/150x150.png?text=Produto+8",
+        "descricao": "Produto 8 da promoção Festival da Limpeza",
+        "preco": 9.99
+      },
+      {
+        "id": 9,
+        "imagem": "https://via.placeholder.com/150x150.png?text=Produto+9",
+        "descricao": "Produto 9 da promoção Festival da Limpeza",
+        "preco": 4.99
+      },
+      {
+        "id": 10,
+        "imagem": "https://via.placeholder.com/150x150.png?text=Produto+10",
+        "descricao": "Produto 10 da promoção Festival da Limpeza",
+        "preco": 12.99
+      }
+    ],
+    "TudoParaSeuBebê": [
+      {   "id": 1,
+      "imagem": "https://via.placeholder.com/150x150.png?text=Produto+1",
+      "descricao": "Produto 1 da promoção Festival da Limpeza",
+      "preco": 10.99
+    },
+    {
+      "id": 1,
+      "imagem": "https://via.placeholder.com/150x150.png?text=Produto+1",
+      "descricao": "Produto 1 da promoção Festival da Limpeza",
+      "preco": 10.99
+    },
+    {   "id": 1,
+    "imagem": "https://via.placeholder.com/150x150.png?text=Produto+1",
+    "descricao": "Produto 1 da promoção Festival da Limpeza",
+    "preco": 10.99
+  },{
+    "id": 1,
+    "imagem": "https://via.placeholder.com/150x150.png?text=Produto+1",
+    "descricao": "Produto 1 da promoção Festival da Limpeza",
+    "preco": 10.99
+  },{
+    "id": 1,
+    "imagem": "https://via.placeholder.com/150x150.png?text=Produto+1",
+    "descricao": "Produto 1 da promoção Festival da Limpeza",
+    "preco": 10.99
+  }
+    ]
+  }
+  }
+    
+    
+
