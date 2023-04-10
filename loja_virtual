@@ -222,49 +222,49 @@
         },
         {
         "id": 5,
-        "imagem": "https://via.placeholder.com/150x150.png?text=Repolho",
+        "imagem": "https://ibassets.com.br/ib.item.image.big/b-257c675adabf4e42bc9c93b5364a8286.jpeg",
         "descricao": "Repolho Verde",
         "preco": 3.99
         },
         {
         "id": 6,
-        "imagem": "https://via.placeholder.com/150x150.png?text=Abobrinha",
+        "imagem": "https://s3-sa-east-1.amazonaws.com/bluesoft-erp/sitioverde/ecommerce/produtos/fotos/4d129792-f923-4038-9354-c1bb757f5acc/foto_large.jpg",
         "descricao": "Abobrinha",
         "preco": 5.99
         },
         {
         "id": 7,
-        "imagem": "https://via.placeholder.com/150x150.png?text=Brócolis",
+        "imagem": "https://www.infoescola.com/wp-content/uploads/2010/08/brocolis.jpg",
         "descricao": "Brócolis",
         "preco": 6.99
         },
         {
         "id": 8,
-        "imagem": "https://via.placeholder.com/150x150.png?text=Banana",
+        "imagem": "https://ibassets.com.br/ib.item.image.big/b-a72619942561407181df4de785f775ed.jpeg",
         "descricao": "Banana Prata",
         "preco": 2.49
         },
         {
         "id": 9,
-        "imagem": "https://via.placeholder.com/150x150.png?text=Maçã",
+        "imagem": "https://cdn.shoppub.io/cdn-cgi/image/w=1000,h=1000,q=80,f=auto/cenourao/media/uploads/produtos/foto/8a111cf79f17file.png",
         "descricao": "Maçã Fuji",
         "preco": 3.99
         },
         {
         "id": 10,
-        "imagem": "https://via.placeholder.com/150x150.png?text=Morango",
+        "imagem": "https://hortifruti.com.br/media/catalog/product/1/1/111040-morango-organico-250g-bandeja.jpg?auto=webp&format=pjpg&width=640&height=800&fit=cover",
         "descricao": "Morango",
         "preco": 7.99
         },
         {
         "id": 11,
-        "imagem": "https://via.placeholder.com/150x150.png?text=Uva",
+        "imagem": "https://scfoods.fbitsstatic.net/img/p/uva-italia-500g-70940/257559.jpg?w=800&h=800&v=no-change&qs=ignore",
         "descricao": "Uva Itália",
         "preco": 9.99
         },
         {
         "id": 12,
-        "imagem": "https://via.placeholder.com/150x150.png?text=Mamão",
+        "imagem": "https://maringa.cidadecancao.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/a/mamao-papaia-kg-0000000044974.jpg",
         "descricao": "Mamão Papaya",
         "preco": 4.99
         }
