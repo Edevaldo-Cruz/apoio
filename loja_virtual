@@ -68,73 +68,73 @@
       "festivalLimpeza": [
        {
       "id": 1,
-      "imagem": "https://via.placeholder.com/150x150.png?text=Produto+1",
+      "imagem": "https://imgs.extra.com.br/1533758874/1xg.jpg",
       "descricao": "Detergente Líquido Ypê 500ml",
       "preco": 2.99
     },
     {
       "id": 2,
-      "imagem": "https://via.placeholder.com/150x150.png?text=Produto+2",
+      "imagem": "https://imgs.extra.com.br/1527051806/1xg.jpg?imwidth=292",
       "descricao": "Água Sanitária Dragão 1L",
       "preco": 3.99
     },
     {
       "id": 3,
-      "imagem": "https://via.placeholder.com/150x150.png?text=Produto+3",
+      "imagem": "https://imgs.extra.com.br/1511101198/1xg.jpg",
       "descricao": "Sabão em Pó Omo Lavagem Perfeita 1,6kg",
       "preco": 14.99
     },
     {
       "id": 4,
-      "imagem": "https://via.placeholder.com/150x150.png?text=Produto+4",
+      "imagem": "https://imgs.extra.com.br/1535794768/1xg.jpg",
       "descricao": "Amaciante de Roupas Downy 1L",
       "preco": 11.99
     },
     {
       "id": 5,
-      "imagem": "https://via.placeholder.com/150x150.png?text=Produto+5",
+      "imagem": "https://imgs.extra.com.br/1528368255/1xg.jpg",
       "descricao": "Esponja de Aço Bombril Pacote com 8",
       "preco": 5.99
     },
     {
       "id": 6,
-      "imagem": "https://via.placeholder.com/150x150.png?text=Produto+6",
+      "imagem": "https://imgs.extra.com.br/1502289256/1xg.jpg",
       "descricao": "Desinfetante Lysoform Original 1L",
       "preco": 7.99
     },
     {
       "id": 7,
-      "imagem": "https://via.placeholder.com/150x150.png?text=Produto+7",
+      "imagem": "https://imgs.extra.com.br/1537199180/1xg.jpg",
       "descricao": "Lustra Móveis Poliflor 200ml",
       "preco": 6.99
     },
     {
       "id": 8,
-      "imagem": "https://via.placeholder.com/150x150.png?text=Produto+8",
+      "imagem": "https://imgs.extra.com.br/1522719011/1xg.jpg",
       "descricao": "Limpa Vidros UAU 500ml",
       "preco": 8.99
     },
     {
       "id": 9,
-      "imagem": "https://via.placeholder.com/150x150.png?text=Produto+9",
-      "descricao": "Lava-Louças Ypê 1kg",
+      "imagem": "https://imgs.extra.com.br/1531611619/1xg.jpg",
+      "descricao": "Lava-Louças Ypê 500ml",
       "preco": 7.49
     },
     {
       "id": 10,
-      "imagem": "https://via.placeholder.com/150x150.png?text=Produto+10",
+      "imagem": "https://imgs.extra.com.br/1536662325/1xg.jpg",
       "descricao": "Pano de Chão Duratto",
       "preco": 4.99
     },
     {
       "id": 11,
-      "imagem": "https://via.placeholder.com/150x150.png?text=Produto+11",
+      "imagem": "https://imgs.extra.com.br/1518828165/1xg.jpg",
       "descricao": "Saco de Lixo Leve 20L Pacote com 50",
       "preco": 9.99
     },
     {
       "id": 12,
-      "imagem": "https://via.placeholder.com/150x150.png?text=Produto+12",
+      "imagem": "https://imgs.extra.com.br/1543548385/1xg.jpg?imwidth=292",
       "descricao": "Inseticida Baygon 300ml",
       "preco": 12.99
     }
