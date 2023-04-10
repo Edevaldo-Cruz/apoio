@@ -196,79 +196,79 @@
       }
       ],
      "Hortifrut": [
-{
-"id": 1,
-"imagem": "https://via.placeholder.com/150x150.png?text=Alface",
-"descricao": "Alface Crespa",
-"preco": 2.99
-},
-{
-"id": 2,
-"imagem": "https://via.placeholder.com/150x150.png?text=Tomate",
-"descricao": "Tomate Italiano",
-"preco": 4.99
-},
-{
-"id": 3,
-"imagem": "https://via.placeholder.com/150x150.png?text=Cenoura",
-"descricao": "Cenoura",
-"preco": 3.49
-},
-{
-"id": 4,
-"imagem": "https://via.placeholder.com/150x150.png?text=Beterraba",
-"descricao": "Beterraba",
-"preco": 2.99
-},
-{
-"id": 5,
-"imagem": "https://via.placeholder.com/150x150.png?text=Repolho",
-"descricao": "Repolho Verde",
-"preco": 3.99
-},
-{
-"id": 6,
-"imagem": "https://via.placeholder.com/150x150.png?text=Abobrinha",
-"descricao": "Abobrinha",
-"preco": 5.99
-},
-{
-"id": 7,
-"imagem": "https://via.placeholder.com/150x150.png?text=Brócolis",
-"descricao": "Brócolis",
-"preco": 6.99
-},
-{
-"id": 8,
-"imagem": "https://via.placeholder.com/150x150.png?text=Banana",
-"descricao": "Banana Prata",
-"preco": 2.49
-},
-{
-"id": 9,
-"imagem": "https://via.placeholder.com/150x150.png?text=Maçã",
-"descricao": "Maçã Fuji",
-"preco": 3.99
-},
-{
-"id": 10,
-"imagem": "https://via.placeholder.com/150x150.png?text=Morango",
-"descricao": "Morango",
-"preco": 7.99
-},
-{
-"id": 11,
-"imagem": "https://via.placeholder.com/150x150.png?text=Uva",
-"descricao": "Uva Itália",
-"preco": 9.99
-},
-{
-"id": 12,
-"imagem": "https://via.placeholder.com/150x150.png?text=Mamão",
-"descricao": "Mamão Papaya",
-"preco": 4.99
-}
-],
+        {
+        "id": 1,
+        "imagem": "https://via.placeholder.com/150x150.png?text=Alface",
+        "descricao": "Alface Crespa",
+        "preco": 2.99
+        },
+        {
+        "id": 2,
+        "imagem": "https://via.placeholder.com/150x150.png?text=Tomate",
+        "descricao": "Tomate Italiano",
+        "preco": 4.99
+        },
+        {
+        "id": 3,
+        "imagem": "https://via.placeholder.com/150x150.png?text=Cenoura",
+        "descricao": "Cenoura",
+        "preco": 3.49
+        },
+        {
+        "id": 4,
+        "imagem": "https://via.placeholder.com/150x150.png?text=Beterraba",
+        "descricao": "Beterraba",
+        "preco": 2.99
+        },
+        {
+        "id": 5,
+        "imagem": "https://via.placeholder.com/150x150.png?text=Repolho",
+        "descricao": "Repolho Verde",
+        "preco": 3.99
+        },
+        {
+        "id": 6,
+        "imagem": "https://via.placeholder.com/150x150.png?text=Abobrinha",
+        "descricao": "Abobrinha",
+        "preco": 5.99
+        },
+        {
+        "id": 7,
+        "imagem": "https://via.placeholder.com/150x150.png?text=Brócolis",
+        "descricao": "Brócolis",
+        "preco": 6.99
+        },
+        {
+        "id": 8,
+        "imagem": "https://via.placeholder.com/150x150.png?text=Banana",
+        "descricao": "Banana Prata",
+        "preco": 2.49
+        },
+        {
+        "id": 9,
+        "imagem": "https://via.placeholder.com/150x150.png?text=Maçã",
+        "descricao": "Maçã Fuji",
+        "preco": 3.99
+        },
+        {
+        "id": 10,
+        "imagem": "https://via.placeholder.com/150x150.png?text=Morango",
+        "descricao": "Morango",
+        "preco": 7.99
+        },
+        {
+        "id": 11,
+        "imagem": "https://via.placeholder.com/150x150.png?text=Uva",
+        "descricao": "Uva Itália",
+        "preco": 9.99
+        },
+        {
+        "id": 12,
+        "imagem": "https://via.placeholder.com/150x150.png?text=Mamão",
+        "descricao": "Mamão Papaya",
+        "preco": 4.99
+        }
+    ],
       "Carne": [
           {
               "id": 1,
