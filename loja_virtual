@@ -12,55 +12,55 @@
       },
       {
         "id": 12,
-        "imagem": "https://picsum.photos/id/12/200/300",
+        "imagem": "https://imgs.extra.com.br/1514892866/1xg.jpg",
         "descricao": "Condicionador Cabelos Oleosos 200ml",
         "preco": 12.99
       },
       {
         "id": 13,
-        "imagem": "https://picsum.photos/id/13/200/300",
+        "imagem": "https://imgs.extra.com.br/55049421/1g.jpg",
         "descricao": "Sabonete Líquido Corporal 500ml",
         "preco": 18.99
       },
       {
         "id": 14,
-        "imagem": "https://picsum.photos/id/14/200/300",
+        "imagem": "https://imgs.extra.com.br/1540243928/1xg.jpg",
         "descricao": "Creme para Mãos 50g",
         "preco": 9.99
       },
       {
         "id": 15,
-        "imagem": "https://picsum.photos/id/15/200/300",
+        "imagem": "https://imgs.extra.com.br/1543702831/1xg.jpg",
         "descricao": "Desodorante Roll-on Feminino 50ml",
         "preco": 7.99
       },
       {
         "id": 16,
-        "imagem": "https://picsum.photos/id/16/200/300",
+        "imagem": "https://imgs.extra.com.br/1545855815/1xg.jpg",
         "descricao": "Desodorante Spray Masculino 150ml",
         "preco": 12.99
       },
       {
         "id": 17,
-        "imagem": "https://picsum.photos/id/17/200/300",
+        "imagem": "https://imgs.extra.com.br/1509217257/1xg.jpg",
         "descricao": "Protetor Solar FPS30 120ml",
         "preco": 26.99
       },
       {
         "id": 18,
-        "imagem": "https://picsum.photos/id/18/200/300",
+        "imagem": "https://imgs.extra.com.br/1500654985/1xg.jpg",
         "descricao": "Perfume Feminino 100ml",
         "preco": 69.99
       },
       {
         "id": 19,
-        "imagem": "https://picsum.photos/id/19/200/300",
+        "imagem": "https://imgs.extra.com.br/1500172397/1xg.jpg",
         "descricao": "Perfume Masculino 100ml",
         "preco": 74.99
       },
       {
         "id": 20,
-        "imagem": "https://picsum.photos/id/20/200/300",
+        "imagem": "https://imgs.extra.com.br/1543512085/1xg.jpg",
         "descricao": "Gel para Barbear 150g",
         "preco": 16.99
       }
