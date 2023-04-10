@@ -204,19 +204,19 @@
         },
         {
         "id": 2,
-        "imagem": "https://via.placeholder.com/150x150.png?text=Tomate",
+        "imagem": "https://i0.wp.com/files.agro20.com.br/uploads/2020/04/Tomate-italiano-1.jpg?fit=1024%2C613&ssl=1",
         "descricao": "Tomate Italiano",
         "preco": 4.99
         },
         {
         "id": 3,
-        "imagem": "https://via.placeholder.com/150x150.png?text=Cenoura",
+        "imagem": "https://d3ugyf2ht6aenh.cloudfront.net/stores/746/397/products/cenoura-semrama1-d884e62b40d965d1a215220503425521-640-0.webp",
         "descricao": "Cenoura",
         "preco": 3.49
         },
         {
         "id": 4,
-        "imagem": "https://via.placeholder.com/150x150.png?text=Beterraba",
+        "imagem": "https://campeol.com.br/fotos/1/1/shutterstock_1195597369.jpg",
         "descricao": "Beterraba",
         "preco": 2.99
         },
