@@ -160,13 +160,13 @@
       },
       {
         "id": 4,
-        "imagem": "https://via.placeholder.com/150x150.png?text=Produto+4",
+        "imagem": "https://imgs.extra.com.br/1545521172/1xg.jpg",
         "descricao": "Sabonete Johnson's Baby Regular 80g",
         "preco": 2.99
       },
       {
         "id": 5,
-        "imagem": "https://imgs.extra.com.br/1545521172/1xg.jpg",
+        "imagem": "https://imgs.extra.com.br/1543175592/1xg.jpg",
         "descricao": "Loção Hidratante Johnson's Baby Regular 200ml",
         "preco": 10.99
       },
