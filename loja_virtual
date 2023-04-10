@@ -270,54 +270,72 @@
         }
     ],
       "Carne": [
-          {
-              "id": 1,
-              "imagem": "https://via.placeholder.com/150x150.png?text=Produto+1",
-              "descricao": "Produto 1 da promoção Festival da Limpeza",
-              "preco": 10.99
-            },
-            {
-              "id": 1,
-              "imagem": "https://via.placeholder.com/150x150.png?text=Produto+1",
-              "descricao": "Produto 1 da promoção Festival da Limpeza",
-              "preco": 10.99
-            },
-            {
-              "id": 1,
-              "imagem": "https://via.placeholder.com/150x150.png?text=Produto+1",
-              "descricao": "Produto 1 da promoção Festival da Limpeza",
-              "preco": 10.99
-            },
-            {
-              "id": 1,
-              "imagem": "https://via.placeholder.com/150x150.png?text=Produto+1",
-              "descricao": "Produto 1 da promoção Festival da Limpeza",
-              "preco": 10.99
-            },
-            {
-              "id": 1,
-              "imagem": "https://via.placeholder.com/150x150.png?text=Produto+1",
-              "descricao": "Produto 1 da promoção Festival da Limpeza",
-              "preco": 10.99
-            },
-            {
-              "id": 1,
-              "imagem": "https://via.placeholder.com/150x150.png?text=Produto+1",
-              "descricao": "Produto 1 da promoção Festival da Limpeza",
-              "preco": 10.99
-            },
-            {
-              "id": 1,
-              "imagem": "https://via.placeholder.com/150x150.png?text=Produto+1",
-              "descricao": "Produto 1 da promoção Festival da Limpeza",
-              "preco": 10.99
-            },
-            {
-              "id": 1,
-              "imagem": "https://via.placeholder.com/150x150.png?text=Produto+1",
-              "descricao": "Produto 1 da promoção Festival da Limpeza",
-              "preco": 10.99
-            }
-      ]
+{
+"id": 1,
+"imagem": "https://superprix.vteximg.com.br/arquivos/ids/195050-600-600/38180.jpg?v=637497988331870000",
+"descricao": "Filé Mignon bovino",
+"preco": 29.99
+},
+{
+"id": 2,
+"imagem": "https://tdc1fe.vteximg.com.br/arquivos/ids/162122-1000-1000/ACOUGUE-COSTELA-DE-PORCO-KG.jpg?v=637523635691370000",
+"descricao": "Costela de Porco",
+"preco": 16.99
+},
+{
+"id": 3,
+"imagem": "https://ojhon.com.br/wp-content/uploads/2021/11/image002-2.jpg",
+"descricao": "Frango Inteiro",
+"preco": 12.99
+},
+{
+"id": 4,
+"imagem": "https://assets.vtex.app/unsafe/1020x930/center/middle/https%3A%2F%2Fcarrefourbrfood.vtexassets.com%2Farquivos%2Fids%2F91939463%2Fpicanha-bovina-a-vacuo-15kg-1.jpg%3Fv%3D1766497367",
+"descricao": "Picanha bovina",
+"preco": 39.99
+},
+{
+"id": 5,
+"imagem": "https://ibassets.com.br/ib.item.image.big/b-c59166bfd9054503ad0e71b0b5f469a0.jpeg",
+"descricao": "Alcatra bovina",
+"preco": 24.99
+},
+{
+"id": 7,
+"imagem": "https://naturaldaterra.com.br/media/catalog/product/1/0/102433---2601380000000---coxa-de-frango-resfriada.jpg?auto=webp&format=pjpg&width=640&height=800&fit=cover",
+"descricao": "Coxa de Frango",
+"preco": 8.99
+},
+{
+"id": 8,
+"imagem": "https://carrefourbrfood.vtexassets.com/arquivos/ids/37674820/maminha-kg-1.jpg?v=1767041707",
+"descricao": "Maminha bovina",
+"preco": 29.99
+},
+{
+"id": 9,
+"imagem": "https://assets.instabuy.com.br/ib.item.image.big/b-c23e55475b90435aae5ce84d4a8ead08.jpeg",
+"descricao": "Asa de Frango",
+"preco": 10.99
+},
+{
+"id": 10,
+"imagem": "https://www.acouguebomboi.com.br/wp-content/uploads/2021/04/linguica-de-pernil-bomboi-mercado-de-carnes-rio-de-janeiro.jpg",
+"descricao": "Linguiça Toscana",
+"preco": 14.99
+},
+{
+"id": 11,
+"imagem": "https://jlemcasa.com.br/wp-content/uploads/2020/05/peito-de-frango-resfriado-kg.jpg",
+"descricao": "Peito de Frango",
+"preco": 9.99
+},
+{
+"id": 12,
+"imagem": "https://centralmaxsupermercados.com.br/imagens_site/638.jpg",
+"descricao": "Bisteca Suína",
+"preco": 13.99
+}
+]
     }
   }
