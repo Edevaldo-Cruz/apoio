@@ -141,35 +141,59 @@
       ],
       "TudoParaSeuBebê": [
         {
-          "id": 1,
-          "imagem": "https://via.placeholder.com/150x150.png?text=Produto+1",
-          "descricao": "Produto 1 da promoção Festival da Limpeza",
-          "preco": 10.99
-        },
-        {
-          "id": 1,
-          "imagem": "https://via.placeholder.com/150x150.png?text=Produto+1",
-          "descricao": "Produto 1 da promoção Festival da Limpeza",
-          "preco": 10.99
-        },
-        {
-          "id": 1,
-          "imagem": "https://via.placeholder.com/150x150.png?text=Produto+1",
-          "descricao": "Produto 1 da promoção Festival da Limpeza",
-          "preco": 10.99
-        },
-        {
-          "id": 1,
-          "imagem": "https://via.placeholder.com/150x150.png?text=Produto+1",
-          "descricao": "Produto 1 da promoção Festival da Limpeza",
-          "preco": 10.99
-        },
-        {
-          "id": 1,
-          "imagem": "https://via.placeholder.com/150x150.png?text=Produto+1",
-          "descricao": "Produto 1 da promoção Festival da Limpeza",
-          "preco": 10.99
-        }
+        "id": 1,
+        "imagem": "https://via.placeholder.com/150x150.png?text=Produto+1",
+        "descricao": "Fralda Pampers Confort Sec Tamanho P - Pacote com 50 unidades",
+        "preco": 39.90
+      },
+      {
+        "id": 2,
+        "imagem": "https://via.placeholder.com/150x150.png?text=Produto+2",
+        "descricao": "Shampoo Johnson's Baby Regular 200ml",
+        "preco": 8.99
+      },
+      {
+        "id": 3,
+        "imagem": "https://via.placeholder.com/150x150.png?text=Produto+3",
+        "descricao": "Condicionador Johnson's Baby Regular 200ml",
+        "preco": 8.99
+      },
+      {
+        "id": 4,
+        "imagem": "https://via.placeholder.com/150x150.png?text=Produto+4",
+        "descricao": "Sabonete Johnson's Baby Regular 80g",
+        "preco": 2.99
+      },
+      {
+        "id": 5,
+        "imagem": "https://via.placeholder.com/150x150.png?text=Produto+5",
+        "descricao": "Loção Hidratante Johnson's Baby Regular 200ml",
+        "preco": 10.99
+      },
+      {
+        "id": 6,
+        "imagem": "https://via.placeholder.com/150x150.png?text=Produto+6",
+        "descricao": "Lenço Umedecido Johnson's Baby Extra Cuidado com 96 unidades",
+        "preco": 9.99
+      },
+      {
+        "id": 7,
+        "imagem": "https://via.placeholder.com/150x150.png?text=Produto+7",
+        "descricao": "Creme para Prevenção de Assaduras Bepantol Baby 30g",
+        "preco": 14.99
+      },
+      {
+        "id": 8,
+        "imagem": "https://via.placeholder.com/150x150.png?text=Produto+8",
+        "descricao": "Talco Johnson's Baby Regular 200g",
+        "preco": 9.99
+      },
+      {
+        "id": 9,
+        "imagem": "https://via.placeholder.com/150x150.png?text=Produto+9",
+        "descricao": "Pomada para Assaduras Hipoglós Amêndoas 135g",
+        "preco": 24.99
+      }
       ],
       "Hortifrut": [
           {
