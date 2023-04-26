@@ -31,7 +31,7 @@
                  "produto":"Sabonete Líquido Corporal 500ml",
                  "preco":18.99,
                  "unidadeDeMedida": "un",
-                 "destaque": false,
+                 "destaque": true,
                  "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
               },
               {
@@ -61,7 +61,7 @@
                  "marca":"Old Spice",
                  "preco":12.99,
                  "unidadeDeMedida": "un",
-                 "destaque": false,
+                 "destaque": true,
                  "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
               },
               {
@@ -91,7 +91,7 @@
                  "marca":"Hubo Boss",
                  "preco":74.99,
                  "unidadeDeMedida": "un",
-                 "destaque": false,
+                 "destaque": true,
                  "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
               },
               {
@@ -143,7 +143,7 @@
                  "marca":"Downy",
                  "preco":11.99,
                  "unidadeDeMedida": "un",
-                 "destaque": false,
+                 "destaque": true,
                  "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
               },
               {
@@ -203,7 +203,7 @@
                  "marca":"Duratto",
                  "preco":4.99,
                  "unidadeDeMedida": "un",
-                 "destaque": false,
+                 "destaque": true,
                  "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
               },
               {
@@ -255,7 +255,7 @@
                  "marca":"Johnson's",
                  "preco":8.99,
                  "unidadeDeMedida": "un",
-                 "destaque": false,
+                 "destaque": true,
                  "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
               },
               {
@@ -315,7 +315,7 @@
                  "marca":"Hipoglós",
                  "preco":24.99,
                  "unidadeDeMedida": "un",
-                 "destaque": false,
+                 "destaque": true,
                  "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
               }
            ],
@@ -357,7 +357,7 @@
                  "marca":"Hortifrut Futura",
                  "preco":2.99,
                  "unidadeDeMedida": "kg",
-                 "destaque": false,
+                 "destaque": true,
                  "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
               },
               {
@@ -398,7 +398,7 @@
                  "marca":"Hortifrut Futura",
                  "preco":2.49,
                  "unidadeDeMedida": "kg",
-                 "destaque": false,
+                 "destaque": true,
                  "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
               },
               {
@@ -450,7 +450,7 @@
                  "marca":"Açougue Futura",
                  "preco":29.99,
                  "unidadeDeMedida": "kg",
-                 "destaque": false,
+                 "destaque": true,
                  "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
               },
               {
@@ -500,7 +500,7 @@
                  "marca":"Açougue Futura",
                  "preco":8.99,
                  "unidadeDeMedida": "kg",
-                 "destaque": false,
+                 "destaque": true,
                  "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
               },
               {
