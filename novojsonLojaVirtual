@@ -1,504 +1,558 @@
 {
-   "nomeSupermercado":"Futura",
-   "endereco":"Av. Principal, 123",
-   "telefone":"(11) 5555-5555",
-   "categorias":{
-      "Cuidados com o Corpo":[
-         {
-            "id":111,
-            "imagem":"https://imgs.extra.com.br/11649523/1xg.jpg",
-            "marca":"Elseve",
-            "produto":"Shampoo Cabelos Secos 250ml",
-            "preco":14.99,
-            "unidade": "un",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         },
-         {
-            "id":121,
-            "imagem":"https://imgs.extra.com.br/1514892866/1xg.jpg",
-            "marca":"infinity",
-            "produto":"Condicionador Cabelos Oleosos 200ml",
-            "preco":12.99,
-            "unidade": "un",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         },
-         {
-            "id":131,
-            "imagem":"https://imgs.extra.com.br/55049421/1g.jpg",
-            "marca":"Total Protect",
-            "produto":"Sabonete Líquido Corporal 500ml",
-            "preco":18.99,
-            "unidade": "un",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         },
-         {
-            "id":141,
-            "imagem":"https://imgs.extra.com.br/1540243928/1xg.jpg",
-            "marca":"velvet",
-            "produto":"Creme para Mãos 50g",
-            "preco":9.99,
-            "unidade": "un",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         },
-         {
-            "id":151,
-            "imagem":"https://imgs.extra.com.br/1543702831/1xg.jpg",
-            "marca":"Above",
-            "produto":"Desodorante Roll-on Feminino 50ml",
-            "preco":7.99,
-            "unidade": "un",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         },
-         {
-            "id":161,
-            "imagem":"https://imgs.extra.com.br/1545855815/1xg.jpg",
-            "produto":"Desodorante Spray Masculino 150ml",
-            "marca":"Old Spice",
-            "preco":12.99,
-            "unidade": "un",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         },
-         {
-            "id":171,
-            "imagem":"https://imgs.extra.com.br/1509217257/1xg.jpg",
-            "produto":"Protetor Solar FPS30 120ml",
-            "marca":"NeoStrata",
-            "preco":26.99,
-            "unidade": "un",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         },
-         {
-            "id":181,
-            "imagem":"https://imgs.extra.com.br/1500654985/1xg.jpg",
-            "produto":"Perfume Feminino 100ml",
-            "marca":"Calvin Klein",
-            "preco":69.99,
-            "unidade": "un",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         },
-         {
-            "id":191,
-            "imagem":"https://imgs.extra.com.br/1500172397/1xg.jpg",
-            "produto":"Perfume Masculino 100ml",
-            "marca":"Hubo Boss",
-            "preco":74.99,
-            "unidade": "un",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         },
-         {
-            "id":201,
-            "imagem":"https://imgs.extra.com.br/1543512085/1xg.jpg",
-            "produto":"Gel para Barbear 150g",
-            "marca":"For Men",
-            "preco":16.99,
-            "unidade": "un",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         }
-      ],
-      "Festival de Limpeza":[
-         {
-            "id":222,
-            "imagem":"https://imgs.extra.com.br/1533758874/1xg.jpg",
-            "produto":"Detergente Líquido Ypê 500ml",
-            "marca":"Ypê",
-            "preco":2.99,
-            "unidade": "un",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         },
-         {
-            "id":223,
-            "imagem":"https://imgs.extra.com.br/1527051806/1xg.jpg?imwidth=292",
-            "produto":"Água Sanitária Dragão 1L",
-            "marca":"Dragão",
-            "preco":3.99,
-            "unidade": "un",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         },
-         {
-            "id":253,
-            "imagem":"https://imgs.extra.com.br/1511101198/1xg.jpg",
-            "produto":"Sabão em Pó Omo Lavagem Perfeita 1,6kg",
-            "marca":"Omo",
-            "preco":14.99,
-            "unidade": "un",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         },
-         {
-            "id":224,
-            "imagem":"https://imgs.extra.com.br/1535794768/1xg.jpg",
-            "produto":"Amaciante de Roupas Downy 1L",
-            "marca":"Downy",
-            "preco":11.99,
-            "unidade": "un",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         },
-         {
-            "id":225,
-            "imagem":"https://imgs.extra.com.br/1528368255/1xg.jpg",
-            "produto":"Esponja de Aço Bombril Pacote com 8",
-            "marca":"Bombril ",
-            "preco":5.99,
-            "unidade": "un",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         },
-         {
-            "id":226,
-            "imagem":"https://imgs.extra.com.br/1502289256/1xg.jpg",
-            "produto":"Desinfetante Lysoform Original 1L",
-            "marca":"Lysoform",
-            "preco":7.99,
-            "unidade": "un",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         },
-         {
-            "id":227,
-            "imagem":"https://imgs.extra.com.br/1537199180/1xg.jpg",
-            "produto":"Lustra Móveis Poliflor 200ml",
-            "marca":"Poliflor",
-            "preco":6.99,
-            "unidade": "un",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         },
-         {
-            "id":228,
-            "imagem":"https://imgs.extra.com.br/1522719011/1xg.jpg",
-            "produto":"Limpa Vidros UAU 500ml",
-            "marca":"UAU",
-            "preco":8.99,
-            "unidade": "un",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         },
-         {
-            "id":229,
-            "imagem":"https://imgs.extra.com.br/1531611619/1xg.jpg",
-            "produto":"Lava-Louças Ypê 500ml",
-            "marca":"Ypê",
-            "preco":7.49,
-            "unidade": "un",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         },
-         {
-            "id":310,
-            "imagem":"https://imgs.extra.com.br/1536662325/1xg.jpg",
-            "produto":"Pano de Chão Duratto",
-            "marca":"Duratto",
-            "preco":4.99,
-            "unidade": "un",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         },
-         {
-            "id":311,
-            "imagem":"https://imgs.extra.com.br/1518828165/1xg.jpg",
-            "produto":"Saco de Lixo Leve 20L Pacote com 50",
-            "marca":"Exato",
-            "preco":9.99,
-            "unidade": "un",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         },
-         {
-            "id":312,
-            "imagem":"https://imgs.extra.com.br/1543548385/1xg.jpg?imwidth=292",
-            "produto":"Inseticida Baygon 300ml",
-            "marca":"Baygon",
-            "preco":12.99,
-            "unidade": "un",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         }
-      ],
-      "Tudo Para Seu Bebê":[
-         {
-            "id":41,
-            "imagem":"https://imgs.extra.com.br/1505946087/1xg.jpg",
-            "produto":"Fralda Pampers Confort Sec Tamanho P - Pacote com 50 unidades",
-            "marca":"Pampers",
-            "preco":39.90,
-            "unidade": "un",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         },
-         {
-            "id":42,
-            "imagem":"https://imgs.extra.com.br/1519777666/1xg.jpg",
-            "produto":"Shampoo Johnson's Baby Regular 200ml",
-            "marca":"Johnson's",
-            "preco":8.99,
-            "unidade": "un",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         },
-         {
-            "id":43,
-            "imagem":"https://imgs.extra.com.br/1519777860/1xg.jpg",
-            "produto":"Condicionador Johnson's Baby Regular 200ml",
-            "marca":"Johnson's",
-            "preco":8.99,
-            "unidade": "un",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         },
-         {
-            "id":44,
-            "imagem":"https://imgs.extra.com.br/1545521172/1xg.jpg",
-            "produto":"Sabonete Johnson's Baby Regular 80g",
-            "marca":"Johnson's",
-            "preco":2.99,
-            "unidade": "un",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         },
-         {
-            "id":45,
-            "imagem":"https://imgs.extra.com.br/1543175592/1xg.jpg",
-            "produto":"Loção Hidratante Johnson's Baby Regular 200ml",
-            "marca":"Johnson's",
-            "preco":10.99,
-            "unidade": "un",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         },
-         {
-            "id":46,
-            "imagem":"https://imgs.extra.com.br/9477905/1xg.jpg",
-            "produto":"Lenço Umedecido Johnson's Baby Extra Cuidado com 96 unidades",
-            "marca":"Johnson's",
-            "preco":9.99,
-            "unidade": "un",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         },
-         {
-            "id":47,
-            "imagem":"https://imgs.extra.com.br/1519778496/1xg.jpg",
-            "produto":"Creme para Prevenção de Assaduras Bepantol Baby 30g",
-            "marca":"Bepantol",
-            "preco":14.99,
-            "unidade": "un",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         },
-         {
-            "id":48,
-            "imagem":"https://imgs.extra.com.br/1548044147/1xg.jpg",
-            "produto":"Talco Johnson's Baby Regular 200g",
-            "marca":"Johnson's",
-            "preco":9.99,
-            "unidade": "un",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         },
-         {
-            "id":49,
-            "imagem":"https://imgs.extra.com.br/1503099247/1xg.jpg",
-            "produto":"Pomada para Assaduras Hipoglós Amêndoas 80g",
-            "marca":"Hipoglós",
-            "preco":24.99,
-            "unidade": "un",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         }
-      ],
-      "Hortifrut":[
-         {
-            "id":71,
-            "imagem":"https://www.aboaterra.com.br/wp-content/uploads/2022/01/Alface-Crespa-Organico.jpg",
-            "produto":"Alface Crespa",
-            "marca":"Hortifrut Futura",
-            "preco":2.99,
-            "unidade": "un",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         },
-         {
-            "id":72,
-            "imagem":"https://i0.wp.com/files.agro20.com.br/uploads/2020/04/Tomate-italiano-1.jpg?fit=1024%2C613&ssl=1",
-            "produto":"Tomate Italiano",
-            "marca":"Hortifrut Futura",
-            "preco":4.99,
-            "unidade": "kg",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         },
-         {
-            "id":73,
-            "imagem":"https://d3ugyf2ht6aenh.cloudfront.net/stores/746/397/products/cenoura-semrama1-d884e62b40d965d1a215220503425521-640-0.webp",
-            "produto":"Cenoura",
-            "marca":"Hortifrut Futura",
-            "preco":3.49,
-            "unidade": "kg",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         },
-         {
-            "id":74,
-            "imagem":"https://campeol.com.br/fotos/1/1/shutterstock_1195597369.jpg",
-            "produto":"Beterraba",
-            "marca":"Hortifrut Futura",
-            "preco":2.99,
-            "unidade": "kg",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         },
-         {
-            "id":75,
-            "imagem":"https://ibassets.com.br/ib.item.image.big/b-257c675adabf4e42bc9c93b5364a8286.jpeg",
-            "produto":"Repolho Verde",
-            "marca":"Hortifrut Futura",
-            "preco":3.99,
-            "unidade": "kg",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         
-         },
-         {
-            "id":76,
-            "imagem":"https://s3-sa-east-1.amazonaws.com/bluesoft-erp/sitioverde/ecommerce/produtos/fotos/4d129792-f923-4038-9354-c1bb757f5acc/foto_large.jpg",
-            "produto":"Abobrinha",
-            "marca":"Hortifrut Futura",
-            "preco":5.99,
-            "unidade": "kg",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         },
-         {
-            "id":77,
-            "imagem":"https://www.infoescola.com/wp-content/uploads/2010/08/brocolis.jpg",
-            "produto":"Brócolis",
-            "marca":"Hortifrut Futura",
-            "preco":6.99,
-            "unidade": "un",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         },
-         {
-            "id":78,
-            "imagem":"https://ibassets.com.br/ib.item.image.big/b-a72619942561407181df4de785f775ed.jpeg",
-            "produto":"Banana Prata",
-            "marca":"Hortifrut Futura",
-            "preco":2.49,
-            "unidade": "kg",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         },
-         {
-            "id":79,
-            "imagem":"https://cdn.shoppub.io/cdn-cgi/image/w=1000,h=1000,q=80,f=auto/cenourao/media/uploads/produtos/foto/8a111cf79f17file.png",
-            "produto":"Maçã Fuji",
-            "marca":"Hortifrut Futura",
-            "preco":3.99,
-            "unidade": "kg",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         },
-         {
-            "id":710,
-            "imagem":"https://hortifruti.com.br/media/catalog/product/1/1/111040-morango-organico-250g-bandeja.jpg?auto=webp&format=pjpg&width=640&height=800&fit=cover",
-            "produto":"Morango",
-            "marca":"Hortifrut Futura",
-            "preco":7.99,
-            "unidade": "un",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         },
-         {
-            "id":711,
-            "imagem":"https://scfoods.fbitsstatic.net/img/p/uva-italia-500g-70940/257559.jpg?w=800&h=800&v=no-change&qs=ignore",
-            "produto":"Uva Itália",
-            "marca":"Hortifrut Futura",
-            "preco":9.99,            
-            "unidade": "kg",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         },
-         {
-            "id":712,
-            "imagem":"https://maringa.cidadecancao.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/a/mamao-papaia-kg-0000000044974.jpg",
-            "produto":"Mamão Papaya",
-            "marca":"Hortifrut Futura",
-            "unidade": "kg",
-            "preco":4.99,
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         }
-      ],
-      "Carne":[
-         {
-            "id":91,
-            "imagem":"https://superprix.vteximg.com.br/arquivos/ids/195050-600-600/38180.jpg?v=637497988331870000",
-            "produto":"Filé Mignon bovino",
-            "marca":"Açougue Futura",
-            "preco":29.99,
-            "unidade": "kg",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         },
-         {
-            "id":92,
-            "imagem":"https://tdc1fe.vteximg.com.br/arquivos/ids/162122-1000-1000/ACOUGUE-COSTELA-DE-PORCO-KG.jpg?v=637523635691370000",
-            "produto":"Costela de Porco",
-            "marca":"Açougue Futura",
-            "preco":16.99,
-            "unidade": "kg",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         },
-         {
-            "id":93,
-            "imagem":"https://ojhon.com.br/wp-content/uploads/2021/11/image002-2.jpg",
-            "produto":"Frango Inteiro",
-            "marca":"Açougue Futura",
-            "preco":12.99,
-            "unidade": "kg",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         },
-         {
-            "id":94,
-            "imagem":"https://assets.vtex.app/unsafe/1020x930/center/middle/https%3A%2F%2Fcarrefourbrfood.vtexassets.com%2Farquivos%2Fids%2F91939463%2Fpicanha-bovina-a-vacuo-15kg-1.jpg%3Fv%3D1766497367",
-            "produto":"Picanha bovina",
-            "marca":"Açougue Futura",
-            "preco":39.99,
-            "unidade": "kg",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         },
-         {
-            "id":95,
-            "imagem":"https://ibassets.com.br/ib.item.image.big/b-c59166bfd9054503ad0e71b0b5f469a0.jpeg",
-            "produto":"Alcatra bovina",
-            "marca":"Açougue Futura",
-            "preco":24.99,
-            "unidade": "kg",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         },
-         {
-            "id":97,
-            "imagem":"https://naturaldaterra.com.br/media/catalog/product/1/0/102433---2601380000000---coxa-de-frango-resfriada.jpg?auto=webp&format=pjpg&width=640&height=800&fit=cover",
-            "produto":"Coxa de Frango",
-            "marca":"Açougue Futura",
-            "preco":8.99,
-            "unidade": "kg",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         },
-         {
-            "id":98,
-            "imagem":"https://carrefourbrfood.vtexassets.com/arquivos/ids/37674820/maminha-kg-1.jpg?v=1767041707",
-            "produto":"Maminha bovina",
-            "marca":"Açougue Futura",
-            "preco":29.99,
-            "unidade": "kg",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         },
-         {
-            "id":99,
-            "imagem":"https://assets.instabuy.com.br/ib.item.image.big/b-c23e55475b90435aae5ce84d4a8ead08.jpeg",
-            "produto":"Asa de Frango",
-            "marca":"Açougue Futura",
-            "preco":10.99,
-            "unidade": "kg",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         },
-         {
-            "id":910,
-            "imagem":"https://www.acouguebomboi.com.br/wp-content/uploads/2021/04/linguica-de-pernil-bomboi-mercado-de-carnes-rio-de-janeiro.jpg",
-            "produto":"Linguiça Toscana",
-            "marca":"Açougue Futura",
-            "preco":14.99,
-            "unidade": "kg",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         },
-         {
-            "id":911,
-            "imagem":"https://jlemcasa.com.br/wp-content/uploads/2020/05/peito-de-frango-resfriado-kg.jpg",
-            "produto":"Peito de Frango",
-            "marca":"Açougue Futura",
-            "preco":9.99,
-            "unidade": "kg",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         },
-         {
-            "id":912,
-            "imagem":"https://centralmaxsupermercados.com.br/imagens_site/638.jpg",
-            "produto":"Bisteca Suína",
-            "marca":"Açougue Futura",
-            "preco":13.99,
-            "unidade": "kg",
-            "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
-         }
-      ]
-   }
-}
+        "nomeSupermercado":"Futura",
+        "endereco":"Av. Principal, 123",
+        "telefone":"(11) 5555-5555",
+        "categorias":{
+           "Cuidados com o Corpo":[
+              {
+                 "id":111,
+                 "imagem":"https://imgs.extra.com.br/11649523/1xg.jpg",
+                 "marca":"Elseve",
+                 "produto":"Shampoo Cabelos Secos 250ml",
+                 "preco":14.99,
+                 "unidadeDeMedida": "un",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              },
+              {
+                 "id":121,
+                 "imagem":"https://imgs.extra.com.br/1514892866/1xg.jpg",
+                 "marca":"infinity",
+                 "produto":"Condicionador Cabelos Oleosos 200ml",
+                 "preco":12.99,
+                 "unidadeDeMedida": "un",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              },
+              {
+                 "id":131,
+                 "imagem":"https://imgs.extra.com.br/55049421/1g.jpg",
+                 "marca":"Total Protect",
+                 "produto":"Sabonete Líquido Corporal 500ml",
+                 "preco":18.99,
+                 "unidadeDeMedida": "un",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              },
+              {
+                 "id":141,
+                 "imagem":"https://imgs.extra.com.br/1540243928/1xg.jpg",
+                 "marca":"velvet",
+                 "produto":"Creme para Mãos 50g",
+                 "preco":9.99,
+                 "unidadeDeMedida": "un",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              },
+              {
+                 "id":151,
+                 "imagem":"https://imgs.extra.com.br/1543702831/1xg.jpg",
+                 "marca":"Above",
+                 "produto":"Desodorante Roll-on Feminino 50ml",
+                 "preco":7.99,
+                 "unidadeDeMedida": "un",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              },
+              {
+                 "id":161,
+                 "imagem":"https://imgs.extra.com.br/1545855815/1xg.jpg",
+                 "produto":"Desodorante Spray Masculino 150ml",
+                 "marca":"Old Spice",
+                 "preco":12.99,
+                 "unidadeDeMedida": "un",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              },
+              {
+                 "id":171,
+                 "imagem":"https://imgs.extra.com.br/1509217257/1xg.jpg",
+                 "produto":"Protetor Solar FPS30 120ml",
+                 "marca":"NeoStrata",
+                 "preco":26.99,
+                 "unidadeDeMedida": "un",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              },
+              {
+                 "id":181,
+                 "imagem":"https://imgs.extra.com.br/1500654985/1xg.jpg",
+                 "produto":"Perfume Feminino 100ml",
+                 "marca":"Calvin Klein",
+                 "preco":69.99,
+                 "unidadeDeMedida": "un",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              },
+              {
+                 "id":191,
+                 "imagem":"https://imgs.extra.com.br/1500172397/1xg.jpg",
+                 "produto":"Perfume Masculino 100ml",
+                 "marca":"Hubo Boss",
+                 "preco":74.99,
+                 "unidadeDeMedida": "un",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              },
+              {
+                 "id":201,
+                 "imagem":"https://imgs.extra.com.br/1543512085/1xg.jpg",
+                 "produto":"Gel para Barbear 150g",
+                 "marca":"For Men",
+                 "preco":16.99,
+                 "unidadeDeMedida": "un",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              }
+           ],
+           "Festival de Limpeza":[
+              {
+                 "id":222,
+                 "imagem":"https://imgs.extra.com.br/1533758874/1xg.jpg",
+                 "produto":"Detergente Líquido Ypê 500ml",
+                 "marca":"Ypê",
+                 "preco":2.99,
+                 "unidadeDeMedida": "un",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              },
+              {
+                 "id":223,
+                 "imagem":"https://imgs.extra.com.br/1527051806/1xg.jpg?imwidth=292",
+                 "produto":"Água Sanitária Dragão 1L",
+                 "marca":"Dragão",
+                 "preco":3.99,
+                 "unidadeDeMedida": "un",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              },
+              {
+                 "id":253,
+                 "imagem":"https://imgs.extra.com.br/1511101198/1xg.jpg",
+                 "produto":"Sabão em Pó Omo Lavagem Perfeita 1,6kg",
+                 "marca":"Omo",
+                 "preco":14.99,
+                 "unidadeDeMedida": "un",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              },
+              {
+                 "id":224,
+                 "imagem":"https://imgs.extra.com.br/1535794768/1xg.jpg",
+                 "produto":"Amaciante de Roupas Downy 1L",
+                 "marca":"Downy",
+                 "preco":11.99,
+                 "unidadeDeMedida": "un",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              },
+              {
+                 "id":225,
+                 "imagem":"https://imgs.extra.com.br/1528368255/1xg.jpg",
+                 "produto":"Esponja de Aço Bombril Pacote com 8",
+                 "marca":"Bombril ",
+                 "preco":5.99,
+                 "unidadeDeMedida": "un",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              },
+              {
+                 "id":226,
+                 "imagem":"https://imgs.extra.com.br/1502289256/1xg.jpg",
+                 "produto":"Desinfetante Lysoform Original 1L",
+                 "marca":"Lysoform",
+                 "preco":7.99,
+                 "unidadeDeMedida": "un",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              },
+              {
+                 "id":227,
+                 "imagem":"https://imgs.extra.com.br/1537199180/1xg.jpg",
+                 "produto":"Lustra Móveis Poliflor 200ml",
+                 "marca":"Poliflor",
+                 "preco":6.99,
+                 "unidadeDeMedida": "un",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              },
+              {
+                 "id":228,
+                 "imagem":"https://imgs.extra.com.br/1522719011/1xg.jpg",
+                 "produto":"Limpa Vidros UAU 500ml",
+                 "marca":"UAU",
+                 "preco":8.99,
+                 "unidadeDeMedida": "un",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              },
+              {
+                 "id":229,
+                 "imagem":"https://imgs.extra.com.br/1531611619/1xg.jpg",
+                 "produto":"Lava-Louças Ypê 500ml",
+                 "marca":"Ypê",
+                 "preco":7.49,
+                 "unidadeDeMedida": "un",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              },
+              {
+                 "id":310,
+                 "imagem":"https://imgs.extra.com.br/1536662325/1xg.jpg",
+                 "produto":"Pano de Chão Duratto",
+                 "marca":"Duratto",
+                 "preco":4.99,
+                 "unidadeDeMedida": "un",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              },
+              {
+                 "id":311,
+                 "imagem":"https://imgs.extra.com.br/1518828165/1xg.jpg",
+                 "produto":"Saco de Lixo Leve 20L Pacote com 50",
+                 "marca":"Exato",
+                 "preco":9.99,
+                 "unidadeDeMedida": "un",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              },
+              {
+                 "id":312,
+                 "imagem":"https://imgs.extra.com.br/1543548385/1xg.jpg?imwidth=292",
+                 "produto":"Inseticida Baygon 300ml",
+                 "marca":"Baygon",
+                 "preco":12.99,
+                 "unidadeDeMedida": "un",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              }
+           ],
+           "Tudo Para Seu Bebê":[
+              {
+                 "id":41,
+                 "imagem":"https://imgs.extra.com.br/1505946087/1xg.jpg",
+                 "produto":"Fralda Pampers Confort Sec Tamanho P - Pacote com 50 unidades",
+                 "marca":"Pampers",
+                 "preco":39.90,
+                 "unidadeDeMedida": "un",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              },
+              {
+                 "id":42,
+                 "imagem":"https://imgs.extra.com.br/1519777666/1xg.jpg",
+                 "produto":"Shampoo Johnson's Baby Regular 200ml",
+                 "marca":"Johnson's",
+                 "preco":8.99,
+                 "unidadeDeMedida": "un",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              },
+              {
+                 "id":43,
+                 "imagem":"https://imgs.extra.com.br/1519777860/1xg.jpg",
+                 "produto":"Condicionador Johnson's Baby Regular 200ml",
+                 "marca":"Johnson's",
+                 "preco":8.99,
+                 "unidadeDeMedida": "un",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              },
+              {
+                 "id":44,
+                 "imagem":"https://imgs.extra.com.br/1545521172/1xg.jpg",
+                 "produto":"Sabonete Johnson's Baby Regular 80g",
+                 "marca":"Johnson's",
+                 "preco":2.99,
+                 "unidadeDeMedida": "un",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              },
+              {
+                 "id":45,
+                 "imagem":"https://imgs.extra.com.br/1543175592/1xg.jpg",
+                 "produto":"Loção Hidratante Johnson's Baby Regular 200ml",
+                 "marca":"Johnson's",
+                 "preco":10.99,
+                 "unidadeDeMedida": "un",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              },
+              {
+                 "id":46,
+                 "imagem":"https://imgs.extra.com.br/9477905/1xg.jpg",
+                 "produto":"Lenço Umedecido Johnson's Baby Extra Cuidado com 96 unidades",
+                 "marca":"Johnson's",
+                 "preco":9.99,
+                 "unidadeDeMedida": "un",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              },
+              {
+                 "id":47,
+                 "imagem":"https://imgs.extra.com.br/1519778496/1xg.jpg",
+                 "produto":"Creme para Prevenção de Assaduras Bepantol Baby 30g",
+                 "marca":"Bepantol",
+                 "preco":14.99,
+                 "unidadeDeMedida": "un",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              },
+              {
+                 "id":48,
+                 "imagem":"https://imgs.extra.com.br/1548044147/1xg.jpg",
+                 "produto":"Talco Johnson's Baby Regular 200g",
+                 "marca":"Johnson's",
+                 "preco":9.99,
+                 "unidadeDeMedida": "un",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              },
+              {
+                 "id":49,
+                 "imagem":"https://imgs.extra.com.br/1503099247/1xg.jpg",
+                 "produto":"Pomada para Assaduras Hipoglós Amêndoas 80g",
+                 "marca":"Hipoglós",
+                 "preco":24.99,
+                 "unidadeDeMedida": "un",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              }
+           ],
+           "Hortifrut":[
+              {
+                 "id":71,
+                 "imagem":"https://www.aboaterra.com.br/wp-content/uploads/2022/01/Alface-Crespa-Organico.jpg",
+                 "produto":"Alface Crespa",
+                 "marca":"Hortifrut Futura",
+                 "preco":2.99,
+                 "unidadeDeMedida": "un",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              },
+              {
+                 "id":72,
+                 "imagem":"https://i0.wp.com/files.agro20.com.br/uploads/2020/04/Tomate-italiano-1.jpg?fit=1024%2C613&ssl=1",
+                 "produto":"Tomate Italiano",
+                 "marca":"Hortifrut Futura",
+                 "preco":4.99,
+                 "unidadeDeMedida": "kg",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              },
+              {
+                 "id":73,
+                 "imagem":"https://d3ugyf2ht6aenh.cloudfront.net/stores/746/397/products/cenoura-semrama1-d884e62b40d965d1a215220503425521-640-0.webp",
+                 "produto":"Cenoura",
+                 "marca":"Hortifrut Futura",
+                 "preco":3.49,
+                 "unidadeDeMedida": "kg",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              },
+              {
+                 "id":74,
+                 "imagem":"https://campeol.com.br/fotos/1/1/shutterstock_1195597369.jpg",
+                 "produto":"Beterraba",
+                 "marca":"Hortifrut Futura",
+                 "preco":2.99,
+                 "unidadeDeMedida": "kg",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              },
+              {
+                 "id":75,
+                 "imagem":"https://ibassets.com.br/ib.item.image.big/b-257c675adabf4e42bc9c93b5364a8286.jpeg",
+                 "produto":"Repolho Verde",
+                 "marca":"Hortifrut Futura",
+                 "preco":3.99,
+                 "unidadeDeMedida": "kg",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              
+              },
+              {
+                 "id":76,
+                 "imagem":"https://s3-sa-east-1.amazonaws.com/bluesoft-erp/sitioverde/ecommerce/produtos/fotos/4d129792-f923-4038-9354-c1bb757f5acc/foto_large.jpg",
+                 "produto":"Abobrinha",
+                 "marca":"Hortifrut Futura",
+                 "preco":5.99,
+                 "unidadeDeMedida": "kg",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              },
+              {
+                 "id":77,
+                 "imagem":"https://www.infoescola.com/wp-content/uploads/2010/08/brocolis.jpg",
+                 "produto":"Brócolis",
+                 "marca":"Hortifrut Futura",
+                 "preco":6.99,
+                 "unidadeDeMedida": "un",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              },
+              {
+                 "id":78,
+                 "imagem":"https://ibassets.com.br/ib.item.image.big/b-a72619942561407181df4de785f775ed.jpeg",
+                 "produto":"Banana Prata",
+                 "marca":"Hortifrut Futura",
+                 "preco":2.49,
+                 "unidadeDeMedida": "kg",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              },
+              {
+                 "id":79,
+                 "imagem":"https://cdn.shoppub.io/cdn-cgi/image/w=1000,h=1000,q=80,f=auto/cenourao/media/uploads/produtos/foto/8a111cf79f17file.png",
+                 "produto":"Maçã Fuji",
+                 "marca":"Hortifrut Futura",
+                 "preco":3.99,
+                 "unidadeDeMedida": "kg",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              },
+              {
+                 "id":710,
+                 "imagem":"https://hortifruti.com.br/media/catalog/product/1/1/111040-morango-organico-250g-bandeja.jpg?auto=webp&format=pjpg&width=640&height=800&fit=cover",
+                 "produto":"Morango",
+                 "marca":"Hortifrut Futura",
+                 "preco":7.99,
+                 "unidadeDeMedida": "un",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              },
+              {
+                 "id":711,
+                 "imagem":"https://scfoods.fbitsstatic.net/img/p/uva-italia-500g-70940/257559.jpg?w=800&h=800&v=no-change&qs=ignore",
+                 "produto":"Uva Itália",
+                 "marca":"Hortifrut Futura",
+                 "preco":9.99,            
+                 "unidadeDeMedida": "kg",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              },
+              {
+                 "id":712,
+                 "imagem":"https://maringa.cidadecancao.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/m/a/mamao-papaia-kg-0000000044974.jpg",
+                 "produto":"Mamão Papaya",
+                 "marca":"Hortifrut Futura",
+                 "preco":4.99,
+                 "unidadeDeMedida": "kg",          
+                 "destaque": false,       
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              }
+           ],
+           "Carne":[
+              {
+                 "id":91,
+                 "imagem":"https://superprix.vteximg.com.br/arquivos/ids/195050-600-600/38180.jpg?v=637497988331870000",
+                 "produto":"Filé Mignon bovino",
+                 "marca":"Açougue Futura",
+                 "preco":29.99,
+                 "unidadeDeMedida": "kg",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              },
+              {
+                 "id":92,
+                 "imagem":"https://tdc1fe.vteximg.com.br/arquivos/ids/162122-1000-1000/ACOUGUE-COSTELA-DE-PORCO-KG.jpg?v=637523635691370000",
+                 "produto":"Costela de Porco",
+                 "marca":"Açougue Futura",
+                 "preco":16.99,
+                 "unidadeDeMedida": "kg",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              },
+              {
+                 "id":93,
+                 "imagem":"https://ojhon.com.br/wp-content/uploads/2021/11/image002-2.jpg",
+                 "produto":"Frango Inteiro",
+                 "marca":"Açougue Futura",
+                 "preco":12.99,
+                 "unidadeDeMedida": "kg",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              },
+              {
+                 "id":94,
+                 "imagem":"https://assets.vtex.app/unsafe/1020x930/center/middle/https%3A%2F%2Fcarrefourbrfood.vtexassets.com%2Farquivos%2Fids%2F91939463%2Fpicanha-bovina-a-vacuo-15kg-1.jpg%3Fv%3D1766497367",
+                 "produto":"Picanha bovina",
+                 "marca":"Açougue Futura",
+                 "preco":39.99,
+                 "unidadeDeMedida": "kg",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              },
+              {
+                 "id":95,
+                 "imagem":"https://ibassets.com.br/ib.item.image.big/b-c59166bfd9054503ad0e71b0b5f469a0.jpeg",
+                 "produto":"Alcatra bovina",
+                 "marca":"Açougue Futura",
+                 "preco":24.99,
+                 "unidadeDeMedida": "kg",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              },
+              {
+                 "id":97,
+                 "imagem":"https://naturaldaterra.com.br/media/catalog/product/1/0/102433---2601380000000---coxa-de-frango-resfriada.jpg?auto=webp&format=pjpg&width=640&height=800&fit=cover",
+                 "produto":"Coxa de Frango",
+                 "marca":"Açougue Futura",
+                 "preco":8.99,
+                 "unidadeDeMedida": "kg",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              },
+              {
+                 "id":98,
+                 "imagem":"https://carrefourbrfood.vtexassets.com/arquivos/ids/37674820/maminha-kg-1.jpg?v=1767041707",
+                 "produto":"Maminha bovina",
+                 "marca":"Açougue Futura",
+                 "preco":29.99,
+                 "unidadeDeMedida": "kg",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              },
+              {
+                 "id":99,
+                 "imagem":"https://assets.instabuy.com.br/ib.item.image.big/b-c23e55475b90435aae5ce84d4a8ead08.jpeg",
+                 "produto":"Asa de Frango",
+                 "marca":"Açougue Futura",
+                 "preco":10.99,
+                 "unidadeDeMedida": "kg",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              },
+              {
+                 "id":910,
+                 "imagem":"https://www.acouguebomboi.com.br/wp-content/uploads/2021/04/linguica-de-pernil-bomboi-mercado-de-carnes-rio-de-janeiro.jpg",
+                 "produto":"Linguiça Toscana",
+                 "marca":"Açougue Futura",
+                 "preco":14.99,
+                 "unidadeDeMedida": "kg",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              },
+              {
+                 "id":911,
+                 "imagem":"https://jlemcasa.com.br/wp-content/uploads/2020/05/peito-de-frango-resfriado-kg.jpg",
+                 "produto":"Peito de Frango",
+                 "marca":"Açougue Futura",
+                 "preco":9.99,
+                 "unidadeDeMedida": "kg",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              },
+              {
+                 "id":912,
+                 "imagem":"https://centralmaxsupermercados.com.br/imagens_site/638.jpg",
+                 "produto":"Bisteca Suína",
+                 "marca":"Açougue Futura",
+                 "preco":13.99,
+                 "unidadeDeMedida": "kg",
+                 "destaque": false,
+                 "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
+              }
+           ]
+        }
+     }
