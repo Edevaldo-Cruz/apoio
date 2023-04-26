@@ -550,7 +550,7 @@
                  "marca":"Açougue Futura",
                  "preco":13.99,
                  "unidadeDeMedida": "kg",
-                 "destaque": false,
+                 "destaque": 1,
                  "descricao":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique eros non mi cursus, et viverra elit venenatis. In ligula arcu, fermentum eget facilisis ut, pellentesque at ex. Nam interdum condimentum felis sit amet eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sit."
               }
            ]
